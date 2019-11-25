@@ -1,6 +1,6 @@
 # Python_help
 
-Seja bem vindo
+Seja bem vindo ao Workshop Python
 
 Clique no link abaixo ou no logo(binder) para acessar o jupyter notebook online!
 https://mybinder.org/v2/gh/TanKinWah/Python_help/master?filepath=Welcome.ipynb
