@@ -9,6 +9,6 @@ https://mybinder.org/v2/gh/TanKinWah/Python_help/master?urlpath=https%3A%2F%2Fgi
 
 Espere carregar e então clicke no arquivo Welcome e siga as instruções!
 
-Te espero dia 27/11 as 18h
+Ficarei te esperando no dia 27/11 as 18h!
 
 Um Abraço, Tan!
