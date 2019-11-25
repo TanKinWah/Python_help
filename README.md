@@ -7,7 +7,7 @@ https://mybinder.org/v2/gh/TanKinWah/Python_help/master?filepath=Welcome.ipynb
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TanKinWah/Python_help/master?filepath=Welcome.ipynb)
 
-Aguarde até o jupyter notebook abrir, caso contrário atualize a pagina.
+Por favor aguarde até o jupyter notebook abrir, caso contrário atualize a pagina.
 
 Ficarei te esperando no dia 27/11 as 18h!
 
