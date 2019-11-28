@@ -3,7 +3,7 @@
 Seja bem vindo ao Workshop Python
 
 Durante o workshop, usaremos a ferramenta acessivel pelo link abaixo, para guarantir o funcionamento durante o workshop, clicke no link abaixo ou no logo(binder) para acessar o jupyter notebook online!
-https://mybinder.org/v2/gh/TanKinWah/Python_help/master?filepath=Welcome.ipynb
+https://mybinder.org/v2/gh/TanKinWah/Python_help/master/
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TanKinWah/Python_help/master?filepath=Welcome.ipynb)
 
